@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.0.2] - 2024-08-15
+
+### Changed
+
+- Changed type of `activity` argument in `TrustlyWebView` class from `AppCompatActivity` to `Activity`.
+
 ## [4.0.1] - 2024-02-26
 
 ### Changed
